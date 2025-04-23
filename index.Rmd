@@ -2,10 +2,11 @@
 title: "ZOOL4000 Unessay Project"
 output: html_document
 date: "2025-04-23"
----
+---    
+Created by: Winnie Allred    
 ```{r, echo = FALSE}
 library(qrcode)
-qr <- qr_code("winnie-weidow.github.io/ZOOL-Proj")
+qr <- qr_code("winnie-weidow.github.io/ZOOL-Project")
 plot(qr)
 ```    
 
