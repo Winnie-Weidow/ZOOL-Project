@@ -3,12 +3,16 @@ title: "ZOOL4000 Unessay Project"
 output: html_document
 date: "2025-04-23"
 ---
+```{r, echo = FALSE}
+library(qrcode)
+qr <- qr_code("winnie-weidow.github.io/ZOOL-Proj")
+plot(qr)
+```    
 
-
-Elephant Seals – Mating Ground or Burial Ground?    
+## Elephant Seals – Mating Ground or Burial Ground?    
 An interactive story-based game.    
     
-Points:     
+## Points:     
 Points are based on 4 categories: dominance, reproductive success, health, and social bonding.    
 Start with:    
 •	5 points – dominance    
@@ -17,22 +21,25 @@ Start with:
 •	0 points – social bonding    
 Keep track of points through the game by adding or subtracting them as each scene concludes.    
     
-Game Play:    
+## Game Play:    
 One person narrates and the other makes decisions at each choice point. Keep track of your points and calculate your total success score at the end of the game by adding the final scores from each category.    
     
-Scene 1: Arrival at the Breeding Grounds    
+## Scene 1: Arrival at the Breeding Grounds    
     
 Setting:     
 You are playing the role of a young male elephant seal that is arriving at the breeding grounds for the first time. The objective is to choose the strategy that will create the best balance between costs and benefits. Older, more experienced males are already present and dominating the breeding grounds. Direct competition against the large, experienced dominant males would lead to failure in reproductive attempts, so which strategy will you choose to pass on your genes and survive this brutal environment?
+    
     
 Narration:     
 As you arrive at the beach, you see the dominant males already actively displaying and establishing their control over the harems of females. What’s happening to the losers? They are on the sidelines. Now it’s time to make some choices. Where will you end up?
 Your goal: maximizing your reproductive success while minimizing damage to your health. 
     
+    
 Choice Point: time to make some decisions.    
 A.	Avoid direct contact with the largest males. Instead, challenge a medium bull for control over his harem. High risk, high reward. This may result in gaining your own territory, or you could risk being dominated.    
 B.	Try to sneak a copulation without attracting the attention of the dominant male. This strategy has a low chance of success, but it is less risky than direct competition with the other males.    
 C.	Flirt with the females that are more distanced from the harems. Try to be noticed by females. This is time-consuming and may result in delayed benefits. However, it is low risk.    
+    
     
 Outcomes:     
 If you chose:     
@@ -40,23 +47,29 @@ A.	You challenge a medium sized bull, and he overpowers you. You are injured, bu
 B.	As a dominant bull chases off a rival, you sneak in and copulate with a female near the edge of the harem. You are then noticed and chased away. +1 reproductive success, -1 health.    
 C.	You spend the day near a smaller group of females, subtly displaying, and one of them notices you. No mating today. +1 social bonding.    
     
-Embedded concepts:     
+    
+## Embedded concepts:     
 •	intrasexual selection: direct competition between males    
 •	alternative mating strategies: sneaky tactics when you can’t dominate    
 •	intersexual selection: appealing to female choice through indirect competition    
 •	polygyny: mating system in which one male mates with multiple females    
     
-Scene 2: Rising Tension    
+    
+## Scene 2: Rising Tension    
+    
     
 Narration:     
 The next day arrives, and you are still flippin’. Tension rises on the breeding grounds as confrontation becomes more frequent. Every move you make is vital to your survival and success.    
     
+    
 If you chose A: direct competition, lost, and was injured…    
 The males know to keep an eye on you, and you have made an impression on the females. A particular female is very taken with you. She subtly separates herself from the dominant male’s harem, making her way towards you.    
+    
     
 Choice point:    
 A1. You let her approach you, cautious of the nearby medium-sized bull. This subtle tactic may help you avoid another fight.    
 A2. One female is not enough. You bellow to attract more. It is very bold of you, and could increase your dominance status. However, there is risk of injury.    
+    
     
 If you chose B: tried to sneak a copulation…    
 You are injured at the sidelines, but you’re not the only one. Another male is laying low and shares your objectives. Can you work together?    
@@ -64,13 +77,14 @@ Choice point:
 B1. Work cooperatively with the other male. The other male distracts the dominant male so you can sneak in a copulation or two. You take turns, reciprocating the sacrifice so the other male can also benefit.    
 B2. Forget the other guy. Try again by yourself, but refine your strategy - better timing, quicker retreat. The payoff may be higher than it would be if you cooperated with another male as the distraction tactic could result in fitness costs.    
     
+    
 If you chose C: focused on drawing the attention of females…    
 You were noticed by a female earlier and is now being pursued by another male. She doesn’t seem very interested in him.     
 Choice point:    
 C1. You intervene and chase off the other male, which may strengthen your social bond with the female or scare her away.    
 C2. Let the female choose while you observe the new interaction. By not intervening, she may be more impressed by your patience. This may result in delayed gratification.    
     
-Embedded concepts:     
+## Embedded concepts:     
 •	cooperation through mutualism    
 •	delayed reciprocity    
 •	selfishness    
