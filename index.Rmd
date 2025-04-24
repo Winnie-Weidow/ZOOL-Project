@@ -128,7 +128,7 @@ C.	Remain close to the females that are gathering around you. If the social bond
     
 Outcomes:    
 If you chose:    
-A.	You charge at the dominant male and, coincidentally, so do many other young males. The alpha is exhausted, and he is successfully driven away. Now who gets to be in charge of the harem? You successfully drive back some of your new rivals. There’s no saying how long they will stay away, but you’re in charge… for now. +2 dominance, +1 reproductive success, -2 health.    
+A.	You charge at the dominant male and, coincidentally, so do many other young males. The alpha is exhausted, and he is successfully driven away. Now who gets to be in charge of the harem? You successfully drive back some of your new rivals. There’s no saying how long they will stay away, but you’re in charge… for now. +2 dominance, +1 reproductive success, -3 health.    
 B.	You sneak around and manage a copulation with a female, but you are also seen by another male. He charges at you, but you retreat and barely escape. +1 reproductive success, -1 health.    
 C.	There is fighting going on everywhere, but the females gathered around you stay close until things start to calm down. Some of the females join the new alpha, but some of them stay with you, giving you a brief, uninterrupted time interval with some females. +2 reproductive success, +2 social bonding.    
     
