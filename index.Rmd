@@ -10,7 +10,7 @@ qr <- qr_code("winnie-weidow.github.io/ZOOL-Project")
 plot(qr)
 ```    
 
-## Elephant Seals – Mating Ground or Burial Ground?    
+## Elephant Seal Battles: Mating Ground or Burial Ground?    
 An interactive story-based game.    
     
 ## Points:     
@@ -68,12 +68,13 @@ The males know to keep an eye on you, and you have made an impression on the fem
     
     
 Choice point:    
-A1. You let her approach you, cautious of the nearby medium-sized bull. This subtle tactic may help you avoid another fight.    
+A1. You let her approach you, cautious of the nearby dominant bull. This subtle tactic may help you avoid another fight.    
 A2. One female is not enough. You bellow to attract more. It is very bold of you, and could increase your dominance status. However, there is risk of injury.    
     
     
 If you chose B: tried to sneak a copulation…    
 You are injured at the sidelines, but you’re not the only one. Another male is laying low and shares your objectives. Can you work together?    
+    
 Choice point:    
 B1. Work cooperatively with the other male. The other male distracts the dominant male so you can sneak in a copulation or two. You take turns, reciprocating the sacrifice so the other male can also benefit.    
 B2. Forget the other guy. Try again by yourself, but refine your strategy - better timing, quicker retreat. The payoff may be higher than it would be if you cooperated with another male as the distraction tactic could result in fitness costs.    
@@ -81,16 +82,54 @@ B2. Forget the other guy. Try again by yourself, but refine your strategy - bett
     
 If you chose C: focused on drawing the attention of females…    
 You were noticed by a female earlier and is now being pursued by another male. She doesn’t seem very interested in him.     
+    
 Choice point:    
 C1. You intervene and chase off the other male, which may strengthen your social bond with the female or scare her away.    
 C2. Let the female choose while you observe the new interaction. By not intervening, she may be more impressed by your patience. This may result in delayed gratification.    
     
+    
+Outcomes:     
+If you chose…    
+A1. Aware of the close-by dominant male, you cautiously mirror the movements of the female. She does not back off. While the dominant bull is distracted, you experience reproductive success. +1 reproductive success, +1 social bonding, -1 health (due to stress).    
+A2. You let out a mighty bellow. Oh, the females notice you, but so do your many rivals. One of them charges at you. You escape, but with many new injuries. However, every male and female on the grounds knows who you are. +1 dominance, -2 health.    
+B1. You and the other male work cooperatively. While one of you distracts the dominant male of the harem, the other sneaks in. The other bulls eventually catch on, but over the next several days, you both experience reproductive success. +2 reproductive success, +1 social bonding, -1 dominance (you sneaky son of a gun).    
+B2. You refine your strategies. You move to a larger harem where there are way more females than the dominant male can constantly keep his eye on. As the male gets distracted with some females on the far side of the harem, you sneak around the other side and interact with a female that was left exposed.  Afterwards, you quickly retreat. +1 reproductive success, -1 health (due to exhaustion), -1 dominance.    
+C1. You put yourself between the female and the other male. You are slightly bigger than the other male, and he doesn’t think it’s worth the energy to fight with you. Mating doesn’t happen now, but you have strengthened your bond with the female. +2 social bonding, +1 dominance.    
+C2. While the female does interact with the other male, she is not interested in him. She retreats from him, but closer to you because she is more comfortable when you’re around. +1 social bonding.    
+    
 ## Embedded concepts:     
 •	cooperation through mutualism    
 •	delayed reciprocity    
-•	selfishness    
 •	female choice    
 •	direct and indirect benefits    
 •	social bonding    
 •	bold courtship displays    
 •	greenbeard allele hypothesis: likeminded phenotypes will converge and interact    
+    
+    
+## Scene 3: Arrival of a New Challenger    
+    
+    
+Narration:     
+You’re nearing the end. The breeding grounds have been crazy and intense for days, and the chaos only increases as time goes by. You may be feeling stronger or feeling the intensity of your wounds, depending on your past choices. You have made a name for yourself: bold, sneaky, or impressive…     
+All of that seems forgotten as everyone witnesses the arrival of an older, massive, confident bull. The dynamics on the playing field are about to change. How are you going to adjust your strategies during the new power struggle?    
+    
+If you chose…    
+Path A, bold in combat: you and the other young males might consider taking advantage of the exhaustion that results during the impending battles.    
+Path B, sneaky and clever: the upcoming confusion might be the perfect cover you need to continue with this tactic, or it could prove to be deadly.     
+Path C, impressive to the females: as the structure of the harems is disrupted, females may assemble around you, as you have worked so hard to establish social bonds with them. This could be where your efforts to create social bonds pay off.    
+
+    
+Choice point:     
+A.	Try to overpower a dominant male. The dominant males are getting exhausted. You and the other males don’t intentionally work together, but you all start pushing the boundaries at the edges of the harems. The dominant male’s ability to fend all of you off may be waning.     
+B.	You take advantage of the time the huge bulls are distracted fighting. This is very risky, but it could lead to success again.    
+C.	Remain close to the females that are gathering around you. If the social bonds you have been cultivating are strong enough, this may be the opportunity you have been waiting for.    
+
+    
+Outcomes:    
+If you chose:    
+A.	You charge at the dominant male and, coincidentally, so do many other young males. The alpha is exhausted, and he is successfully driven away. Now who gets to be in charge of the harem? You successfully drive back some of your new rivals. There’s no saying how long they will stay away, but you’re in charge… for now. +2 dominance, +1 reproductive success, -2 health.    
+B.	You sneak around and manage a copulation with a female, but you are also seen by another male. He charges at you, but you retreat and barely escape. +1 reproductive success, -1 health.    
+C.	There is fighting going on all around you, but the females gathered around you stay close until things start to calm down. Some of the females join the new alpha, but some of them stay with you, giving you a brief, uninterrupted time interval with some females. +2 reproductive success, +2 social bonding.    
+
+
