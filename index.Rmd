@@ -16,7 +16,7 @@ An interactive story-based game.
 ## Points:     
 Points are based on 4 categories: dominance, reproductive success, health, and social bonding.    
 Start with:    
-•	5 points – dominance    
+•	0 points – dominance    
 •	0 points – reproductive success    
 •	5 points – health    
 •	0 points – social bonding    
@@ -81,7 +81,7 @@ B2. Forget the other guy. Try again by yourself, but refine your strategy - bett
     
     
 If you chose C: focused on drawing the attention of females…    
-You were noticed by a female earlier and is now being pursued by another male. She doesn’t seem very interested in him.     
+You were noticed by a female earlier and she is now being pursued by another male. She doesn’t seem very interested in him.     
     
 Choice point:    
 C1. You intervene and chase off the other male, which may strengthen your social bond with the female or scare her away.    
@@ -130,7 +130,7 @@ Outcomes:
 If you chose:    
 A.	You charge at the dominant male and, coincidentally, so do many other young males. The alpha is exhausted, and he is successfully driven away. Now who gets to be in charge of the harem? You successfully drive back some of your new rivals. There’s no saying how long they will stay away, but you’re in charge… for now. +2 dominance, +1 reproductive success, -2 health.    
 B.	You sneak around and manage a copulation with a female, but you are also seen by another male. He charges at you, but you retreat and barely escape. +1 reproductive success, -1 health.    
-C.	There is fighting going on all around you, but the females gathered around you stay close until things start to calm down. Some of the females join the new alpha, but some of them stay with you, giving you a brief, uninterrupted time interval with some females. +2 reproductive success, +2 social bonding.    
+C.	There is fighting going on everywhere, but the females gathered around you stay close until things start to calm down. Some of the females join the new alpha, but some of them stay with you, giving you a brief, uninterrupted time interval with some females. +2 reproductive success, +2 social bonding.    
     
     
 ## Embedded concepts:     
