@@ -10,7 +10,7 @@ qr <- qr_code("winnie-weidow.github.io/ZOOL-Project")
 plot(qr)
 ```    
 
-## Elephant Seal Battles: Mating Ground or Burial Ground?    
+## Seal the Deal: The Copulation Competition   
 An interactive story-based game.    
     
 ## Points:     
