@@ -28,7 +28,7 @@ One person narrates and the other makes decisions at each choice point. Keep tra
 ## Scene 1: Arrival at the Breeding Grounds    
     
 Setting:     
-You are playing the role of a young male elephant seal that is arriving at the breeding grounds for the first time. The objective is to choose the strategy that will create the best balance between costs and benefits. Older, more experienced males are already present and dominating the breeding grounds. Direct competition against the large, experienced dominant males would lead to failure in reproductive attempts, so which strategy will you choose to pass on your genes and survive this brutal environment?
+You are playing the role of a young male elephant seal that is arriving at the breeding grounds for the first time. The objective is to choose the strategy that will create the best balance between costs and benefits. Older, more experienced males are already present and dominating the breeding grounds. Direct competition against the largest males could lead to failure in reproductive attempts, so which strategy will you choose to pass on your genes and survive this brutal environment?
     
     
 Narration:     
@@ -50,10 +50,10 @@ C.	You spend the day near a smaller group of females, subtly displaying, and one
     
     
 ## Embedded concepts:     
-•	intrasexual selection: direct competition between males    
+•	intrasexual selection: adaptations related to direct competition, typically between males    
 •	alternative mating strategies: sneaky tactics when you can’t dominate    
-•	intersexual selection: appealing to female choice through indirect competition    
-•	polygyny: mating system in which one male mates with multiple females    
+•	intersexual selection: adaptations appealing to female choice through indirect competition    
+•	resource defense polygyny hypothesis: the males guard the resources (in this case, space on the beach) and attract females. They protect the resources and females by establishing a territory.
     
     
 ## Scene 2: Rising Tension    
@@ -114,7 +114,7 @@ Narration:
 You’re nearing the end. The breeding grounds have been crazy and intense for days, and the chaos only increases as time goes by. You may be feeling stronger or feeling the intensity of your wounds, depending on your past choices. You have made a name for yourself: bold, sneaky, or impressive…     
 All of that seems forgotten as everyone witnesses the arrival of an older, massive, confident bull. The dynamics on the playing field are about to change. How are you going to adjust your strategies during the new power struggle?    
     
-If you chose…    
+Summary: If you chose…    
 Path A, bold in combat: you and the other young males might consider taking advantage of the exhaustion that results during the impending battles.    
 Path B, sneaky and clever: the upcoming confusion might be the perfect cover you need to continue with this tactic, or it could prove to be deadly.     
 Path C, impressive to the females: as the structure of the harems is disrupted, females may assemble around you, as you have worked so hard to establish social bonds with them. This could be where your efforts to create social bonds pay off.    
@@ -122,7 +122,7 @@ Path C, impressive to the females: as the structure of the harems is disrupted, 
     
 Choice point:     
 A.	Try to overpower a dominant male. The dominant males are getting exhausted. You and the other males don’t intentionally work together, but you all start pushing the boundaries at the edges of the harems. The dominant male’s ability to fend all of you off may be waning.     
-B.	You take advantage of the time the huge bulls are distracted fighting. This is very risky, but it could lead to success again.    
+B.	You try the sneaky strategy and take advantage of the time the huge bulls are distracted fighting. This is very risky, but it could lead to success again.    
 C.	Remain close to the females that are gathering around you. If the social bonds you have been cultivating are strong enough, this may be the opportunity you have been waiting for.    
 
     
@@ -131,5 +131,9 @@ If you chose:
 A.	You charge at the dominant male and, coincidentally, so do many other young males. The alpha is exhausted, and he is successfully driven away. Now who gets to be in charge of the harem? You successfully drive back some of your new rivals. There’s no saying how long they will stay away, but you’re in charge… for now. +2 dominance, +1 reproductive success, -2 health.    
 B.	You sneak around and manage a copulation with a female, but you are also seen by another male. He charges at you, but you retreat and barely escape. +1 reproductive success, -1 health.    
 C.	There is fighting going on all around you, but the females gathered around you stay close until things start to calm down. Some of the females join the new alpha, but some of them stay with you, giving you a brief, uninterrupted time interval with some females. +2 reproductive success, +2 social bonding.    
-
-
+    
+    
+## Embedded concepts:     
+•	dominance hierarchy      
+•	by-product collaboration (in contrast to cooperation)       
+    
